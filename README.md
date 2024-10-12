@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rich Harrison (@RKHarrison)
-- 👀 I’m interested in JavaScript, Python, React, ReactNative, Expo, Express.Js, FastAPI, AI, Ethical Tech
+- 👀 I’m interested in JavaScript, Python, React, Next.js, ReactNative, Expo, Express.Js, FastAPI, AI, Ethical Tech
 - 🌱 I’m currently learning ReactNative / Expo
 - 💞️ I’m looking to collaborate on anything JS or Python
 - 📫 How to reach me - via https://www.linkedin.com/in/richard-harrison-87556b228/
